@@ -1,2 +1,5 @@
 /homeTask_1.5_1.6.iml
 *.iml
+/.idea/
+*.class
+/out/
